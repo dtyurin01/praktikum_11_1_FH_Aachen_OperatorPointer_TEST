@@ -1,0 +1,9 @@
+# ninja log v5
+2	1189	7254068183237355	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/main.cpp.obj	d825186ed43168f0
+1195	1573	7254068187008564	praktikum_11_1_FH_Aachen_OperatorPointer_TEST.exe	71f1cfbf7c1b6770
+26	1707	7254068576347332	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/test_MyCanvas.cpp.obj	2dda0a2df5c84cb5
+42	1441	7254068573619020	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/test_MyRectangle.cpp.obj	df46246e4cb28b60
+10	1487	7254068574102993	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/test_operator_MyRectangle.cpp.obj	1f30eda3fa676b
+26	1014	7254068843955238	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/MyRectangle.cpp.obj	1022b433cc14009a
+10	1029	7254068844115256	CMakeFiles/praktikum_11_1_FH_Aachen_OperatorPointer_TEST.dir/MyCanvas.cpp.obj	496da68800bcea22
+1030	1358	7254068847365661	praktikum_11_1_FH_Aachen_OperatorPointer_TEST.exe	f7f718ab4bd2d59f
